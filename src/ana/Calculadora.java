@@ -1,3 +1,4 @@
+package ana;
 
 public class Calculadora {
 	//métodos
