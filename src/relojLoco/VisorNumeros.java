@@ -1,3 +1,5 @@
+package relojLoco;
+
 class VisorNumeros {
 
     private int limite;
@@ -26,12 +28,12 @@ class VisorNumeros {
         }
     }
 
-    /* Versión NORMAL del Visor de Números */
+    /* Versiï¿½n NORMAL del Visor de Nï¿½meros */
     public void incrementar() {
         valor = (valor + 1) % limite;
     }
     
-    /* Versión LOCA del Visor de Números */
+    /* Versiï¿½n LOCA del Visor de Nï¿½meros */
     public void incrementarAleatoriamente(int incrementoLoco) {
         valor = (incrementoLoco + 1) % limite;
     }

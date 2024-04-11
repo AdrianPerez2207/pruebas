@@ -1,3 +1,5 @@
+package relojLoco;
+
 public class VisorReloj {
     private final VisorNumeros horas;
     private final VisorNumeros minutos;

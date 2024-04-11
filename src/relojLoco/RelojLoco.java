@@ -1,3 +1,5 @@
+package relojLoco;
+
 public class RelojLoco
 {
     public static void main( String[] args ) throws InterruptedException {
@@ -23,7 +25,7 @@ public class RelojLoco
             Thread.sleep(1000);
         }
         System.out.println( "*********************************" );
-    	System.out.println( "****** Adiós al Reloj Loco ******" );
+    	System.out.println( "****** Adiï¿½s al Reloj Loco ******" );
     	System.out.println( "********************************* \n" );
     }
 }
